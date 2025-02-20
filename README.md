@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Jeunice, and I'm a Front-end Developer || Backend Developer 
+
 - 🔭 I’m currently working on a scalable e-commerce platform that will serve the Beauty Industry
 - 🌱 I’m currently learning: cloud deployment strategies & advancing my knowledge on springboot
 - 👯 I’m looking to collaborate on: Frontend projects, full-stack applications, and open-source contributions
